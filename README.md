@@ -77,13 +77,15 @@ Queries were organized around four business themes:
 
 ## 💡 Key Insights
 
-> *(To be updated after SQL analysis is complete)*
+- **Revenue Trend:** Revenue grew steadily throughout 2011, increasing from ~£508K in February to a peak of ~£1.45M in November — a 186% increase from lowest to highest month.
 
-- **Revenue trend:** ...
-- **Top market:** ...
-- **High-value customers:** ...
-- **Seasonality:** ...
-- **Growth driver:** ...
+- **Top Market:** The UK dominates with £8.7M in revenue (~83% of total sales). The next closest markets — Netherlands (£284K) and Ireland (£271K) — contribute significantly less, indicating strong dependence on the home market.
+
+- **High-Value Customers:** The top 10 customers generated ~£1.46M in total revenue. Customer 14646 alone contributed £279K. Additionally, ~£1.5M came from "Unknown" (guest) customers, representing a major segment with no retention visibility.
+
+- **Seasonality:** A clear Q4 spike is observed, with revenue rising sharply from September to November. November 2011 is the highest month (£1.45M), while December shows a drop likely due to incomplete data rather than actual decline.
+
+- **Growth Driver:** Revenue growth is primarily driven by increased order volume rather than higher spending per order. Orders increased from 1,093 in February to 2,751 in November, while average order value remained relatively stable.
 
 ---
 
@@ -102,6 +104,7 @@ Queries were organized around four business themes:
 
 - **Microsoft Excel** — Data exploration, cleaning, feature engineering
 - **SQL** — KPI queries and business analysis
+- **AI Tools (ChatGPT/Claude)** — Assisting with documentation formatting and structuring insights I got and wrote
 
 ---
 
