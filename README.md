@@ -93,11 +93,11 @@ Queries were organized around four business themes:
 
 | Finding | Action |
 |---|---|
-| Small % of products drive most revenue | Prioritize stock for top performers; reduce inventory risk on low sellers |
-| High-value customers are identifiable | Target with personalized retention or loyalty campaigns |
-| Strong regional markets are visible | Focus expansion efforts on already-proven geographies |
-| Guest purchases are ~25% of orders | Consider capturing customer IDs at checkout to reduce data gaps |
-
+| UK generates 83% of total revenue | Reduce single-market risk by investing in already-growing markets like Netherlands and Ireland |
+| November is the peak month (£1.45M) — 186% above the lowest month | Plan inventory and marketing campaigns ahead of the September–November ramp-up |
+| Top 10 customers generated £1.46M combined | FBuild a VIP retention program targeting the top 50 customers — losing even a few has outsized revenue impact |
+| £1.5M in revenue comes from guest (Unknown) customers | Introduce guest account prompts at checkout — this segment is unretainable as-is |
+| Growth is driven by order volume, not higher spend per order | Focus on customer acquisition and repeat purchases rather than upselling |
 ---
 
 ##  Tools Used
