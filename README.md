@@ -15,7 +15,7 @@ A retail company had no structured visibility into what was actually driving its
 
 ```
 ├── README.md
-├── ecommerce_cleaned.csv       # Cleaned dataset (Excel)
+├── ecommerce_cleaned.zip       # Cleaned dataset (Excel) zipped bec it's large
 └── ecommerce_analysis       # KPI queries (SQL)
 ```
 
