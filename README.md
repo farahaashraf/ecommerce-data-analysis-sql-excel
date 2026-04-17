@@ -1,9 +1,9 @@
-# 🛒 E-Commerce Sales Analysis
+#  E-Commerce Sales Analysis
 **Tools:** Excel · SQL &nbsp;|&nbsp; **Dataset:** 541,909 rows · 8 columns &nbsp;|&nbsp; **Source:** Kaggle
 
 ---
 
-## 📌 Business Problem
+##  Business Problem
 
 A retail company had no structured visibility into what was actually driving its revenue. It couldn't tell which products were consistently strong sellers, which customers were responsible for the bulk of spending, or whether sales trends were seasonal or random. Without this, decisions about inventory, marketing budgets, and market expansion were mostly guesswork.
 
@@ -21,7 +21,7 @@ A retail company had no structured visibility into what was actually driving its
 
 ---
 
-## 🧹 Step 1 — Data Cleaning (Excel)
+##  Step 1 — Data Cleaning (Excel)
 
 Raw data is messy. This dataset had several issues that would have silently distorted any analysis, so each one was addressed deliberately.
 
@@ -49,7 +49,7 @@ Raw data is messy. This dataset had several issues that would have silently dist
 
 ---
 
-## 📊 Step 2 — KPI Analysis (SQL)
+##  Step 2 — KPI Analysis (SQL)
 
 Queries were organized around four business themes:
 
@@ -87,7 +87,7 @@ Queries were organized around four business themes:
 
 ---
 
-## 🎯 Business Implications
+##  Business Implications
 
 | Finding | Action |
 |---|---|
@@ -98,7 +98,7 @@ Queries were organized around four business themes:
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 - **Microsoft Excel** — Data exploration, cleaning, feature engineering
 - **SQL** — KPI queries and business analysis
